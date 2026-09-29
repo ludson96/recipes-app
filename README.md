@@ -5,7 +5,6 @@
 [![Riverpod](https://img.shields.io/badge/Riverpod-3.3.2-0553B1.svg?style=for-the-badge&logo=dart&logoColor=white)](https://riverpod.dev/)
 [![Dio](https://img.shields.io/badge/Dio-5.11.1-2C2D30.svg?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/dio)
 [![GoRouter](https://img.shields.io/badge/Go_Router-17.5.0-40C4FF.svg?style=for-the-badge&logo=flutter&logoColor=black)](https://pub.dev/packages/go_router)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 > 🇧🇷 **Português** | 🇺🇸 [**English Version**](README.en.md)
 
@@ -23,7 +22,6 @@ O **GourmetLab** é um aplicativo mobile nativo desenvolvido em Flutter voltado 
 - [📁 Estrutura do Repositório](#-estrutura-do-repositório)
 - [💡 Decisões Técnicas](#-decisões-técnicas)
 - [🚀 Como Executar o Projeto](#-como-executar-o-projeto)
-- [📄 Licença](#-licença)
 
 ## 📝 Sobre o Projeto
 
@@ -206,10 +204,6 @@ flutter test
 ```bash
 flutter run
 ```
-
-## 📄 Licença
-
-Este projeto está distribuído sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
 
 <div align="center">
   Desenvolvido por <strong>Ludson Pereira dos Santos</strong> 🚀<br />
